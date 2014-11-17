@@ -1,2 +1,2 @@
-���ÿ⣺
+引用库：
 ..\universalimageloader
