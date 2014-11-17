@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yeekoor</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="content_home">content_home</string>
+    <string name="home_text">首页</string>
+    <string name="category_text">分类</string>
+    <string name="content_shoppingcart">content_shoppingcart</string>
+    <string name="shoppingcart_text">购物车</string>
+    <string name="content_center">content_center</string>
+    <string name="center_text">我的</string>
+    <string name="content_arrow">content_arrow</string>
+    <string name="new_text">新品</string>
+    <string name="price_text">价格</string>
+    <string name="sales_text">销量</string>
+    <string name="comments_text">人气</string>
+    <string name="content_horizontal_divider">content_horizontal_divider</string>
+    <string name="content_product_img">content_product_img</string>
+    <string name="search_hint">搜索意库产品</string>
+    <string name="emptyHintText">抱歉，没有找到符合的产品！</string>
+    <string name="loading_text">加载中...</string>
+    <string name="content_back">content_back</string>
+    <string name="buy_text">立即购买</string>
+    <string name="addcart_text">加入购物车</string>
+
+</resources>

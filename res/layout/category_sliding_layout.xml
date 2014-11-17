@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.legendleo.yeeshop.view.CategorySlidingLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/slidingLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <!-- 主布局，默认显示 -->
+    <LinearLayout
+        android:id="@+id/leftLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="visible" >
+
+        <ListView
+            android:id="@+id/leftList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </ListView>
+    </LinearLayout>
+
+    <!-- 右布局，默认隐藏，向左滑动显示 -->
+    <RelativeLayout
+        android:id="@+id/rightLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F1F0EE"
+        android:visibility="invisible" >
+
+        <ListView
+            android:id="@+id/rightList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </ListView>
+    </RelativeLayout>
+
+</com.legendleo.yeeshop.view.CategorySlidingLayout>

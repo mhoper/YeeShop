@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor">#82858b</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ee0000</color>
+    <color name="orange">#FC8802</color>
+    <color name="lightGray">#F0F0F0</color>
+    <color name="gray">#7F7B77</color>
+    <color name="tranGray">#88BBBBBB</color>
+    <color name="divider">#eeeeee</color>
+    <color name="selector">#C2E4FC</color>
+    <color name="selector_light">#55C2E4FC</color>
+</resources>
